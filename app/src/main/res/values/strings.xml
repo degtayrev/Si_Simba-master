@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Si Simba</string>
+    <string name="app_names">(Aplikasi Siap Menghadaapi Bencana)</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Si Simba</string>
+    <string name="nav_header_subtitle">Aplikasi Siap Menghadapi Bencana</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="close">Close</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mulai_bermain">Mulai Bermain</string>
+    <string name="informasi">Informasi</string>
+    <string name="games">Games</string>
+
+    <string name="question">Question</string>
+    <string name="play_again">Mainkan Lagi</string>
+    <string name="time">15</string>
+    <string name="correct">Correct</string>
+    <string name="wrongans">Jawaban Anda Salah</string>
+    <string name="timeup">Waktu Habis</string>
+    <string name="play_game">Play Game</string>
+    <string name="quit">Quit</string>
+    <string name="next">Pertanyaan Selanjutnya</string>
+    <string name="cancel">✖</string>
+    <string name="kategori_bencana">Kategori Bencana</string>
+    <string name="simba">Simba</string>
+    <string name="sekolah_aman_bencana">Sekolah Aman Bencana</string>
+    <string name="nomor_telepon_penting">Nomor Penting</string>
+    <string name="jadi_relawan">Jadi Relawan</string>
+    <string name="lokasi_saya">Lokasi Saya</string>
+    <string name="about_us">Tentang Aplikasi</string>
+    <string name="versi">Versi</string>
+    <string name="rilis">Rilis</string>
+    <string name="_15_agustus_2019">15 Agustus 2019</string>
+    <string name="programmer">Programmer</string>
+    <string name="prince_alvin_yusuf">Prince Alvin Yusuf</string>
+    <string name="muhammad_raihan_mahardhika">Muhammad Raihan Mahardhika</string>
+    <string name="JawabanBenar">Jawaban Anda Benar</string>
+</resources>
